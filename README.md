@@ -1,7 +1,7 @@
 # Maze-Generation
 Maze generation using various algorithms, with the Pygame library in python to draw and export maze images. 
 
-- This is a simple showcase of what I have learned from the book [*Mazes for Programmers*](http://www.mazesforprogrammers.com/). The examples in the book were written in Ruby, but since I wanted to improve my Python programming skills, I chose to code along and translate them into python.
+- This is a side project of learning from the book [*Mazes for Programmers*](http://www.mazesforprogrammers.com/). The examples in the book were written in Ruby, but since I wanted to improve my Python programming skills, I coded along and translated them into python.
 
 ## Dependencies: 
 - Pygame, Numpy, random, math.
